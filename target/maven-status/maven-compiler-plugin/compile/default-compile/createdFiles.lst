@@ -1,0 +1,7 @@
+br\com\maxtercreations\tebonaro\AjudaTebonaro.class
+br\com\maxtercreations\tebonaro\mysql\MySQLManager.class
+br\com\maxtercreations\tebonaro\mysql\MySQL.class
+br\com\maxtercreations\tebonaro\authentication\UserAuthenticationService.class
+br\com\maxtercreations\tebonaro\api\OrdemAPI.class
+br\com\maxtercreations\tebonaro\manager\Manager.class
+br\com\maxtercreations\tebonaro\authentication\UserAuthenticationFilter.class
